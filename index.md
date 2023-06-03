@@ -1,4 +1,2 @@
----
-title: Welcome to my blog
----
-
+# Aprendiendo Git Hub
+## By Manuel Ibarra
